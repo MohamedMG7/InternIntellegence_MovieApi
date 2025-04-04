@@ -1,0 +1,6 @@
+@InternIntellegence_MovieApi_HostAddress = http://localhost:5263
+
+GET {{InternIntellegence_MovieApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
